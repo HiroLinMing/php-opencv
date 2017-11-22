@@ -1,0 +1,7 @@
+{
+    "name": "hiro/opencv",
+    "description": "opencv test",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
